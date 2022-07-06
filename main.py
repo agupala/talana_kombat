@@ -1,4 +1,3 @@
-#%%
 from itertools import zip_longest
 import utils_kombat
 

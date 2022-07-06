@@ -1,5 +1,3 @@
-#%%
-
 # General
 def longitud_lista(lista):
     contador = 0
